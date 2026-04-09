@@ -14,8 +14,8 @@ If you wish to investigate and run the "new" code as we have, the main changes c
 * ```main_CIFAR10_1v1_repeated_experiment.py```: Python-file similar to the python-notebook above, but heavily reduced to just run the code without intermediate inspection of results or analysis.
 
 Experiment analysis and comparison can be found at these locations:
-* Git repository: **TBA**
-* Trained masks: **TBA**
+* Git repository: [https://github.com/Maggemkay/CSA_with_CNN_paper_archive](https://github.com/Maggemkay/CSA_with_CNN_paper_archive)
+* Trained masks: [https://doi.org/10.5281/zenodo.19476100](https://doi.org/10.5281/zenodo.19476100)
 
 The original README follows here below.
 
